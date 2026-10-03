@@ -1,1 +1,3 @@
-<img src="snake.gif" /> <img src="helloworld.png" />
+<img src="helloworld.png" default="assync"/>
+
+<img src="snake.gif" default="assync"/>
