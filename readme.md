@@ -1,1 +1,1 @@
-<img src="51dc23ec-3b75-421d-90e4-b30c678ac80e-543891002.gif" decoding="asynk />
+<img src="51dc23ec-3b75-421d-90e4-b30c678ac80e-543891002.gif">
